@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<img alt="..." width="300" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmcGZidGN3YjdqOHVucHg3eXJpM21odTM2Z3phdnowc2R6NTFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
+<img alt="..." width="280" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmcGZidGN3YjdqOHVucHg3eXJpM21odTM2Z3phdnowc2R6NTFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning JavaScript, React and Gsap<br><br>👨‍💻 All of my projects are available at https://github.com/Sina-Babaei<br><br>💬 Ask me about Wordpress and Frontend Design<br><br>📫 How to reach me sinababaei011@gmail.com<br><br>⚡ Fun fact I'm Batman
 
 
