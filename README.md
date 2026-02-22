@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer && Web Designer from Iran</h3>
 
 </br>
-<img alt="..." width="350" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmcGZidGN3YjdqOHVucHg3eXJpM21odTM2Z3phdnowc2R6NTFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
+<img alt="..." width="300" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmcGZidGN3YjdqOHVucHg3eXJpM21odTM2Z3phdnowc2R6NTFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sina-babaei&label=Profile%20views&color=0e75b6&style=flat" alt="sina-babaei" /> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
